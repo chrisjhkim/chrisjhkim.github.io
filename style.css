@@ -10,6 +10,7 @@ body {
 #edu td{
     text-align: center;
     padding: 2px;
+    padding-left: 8px;
 }
 .row{
     margin-top: 20px;
