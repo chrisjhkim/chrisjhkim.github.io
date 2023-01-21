@@ -55,3 +55,19 @@ h1, h2 {
 i {
     margin-right: 0.5rem;    /* SNS 아이콘 오른쪽 여백 */
 }
+
+.projectTitle h4{
+    /* font-size: small; */
+    color: grey;
+}
+.projectTitle h6{
+    /* font-size: small; */
+    color: grey;
+    font-size: small;
+}
+.projectDesc h5{
+    font-size: 20px;
+}
+.projectDesc h6{
+    font-size: 16px;
+}
