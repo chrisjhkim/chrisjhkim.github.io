@@ -63,7 +63,7 @@ i {
 .projectTitle h6{
     /* font-size: small; */
     color: grey;
-    font-size: small;
+    font-size: smaller;
 }
 .projectDesc h5{
     font-size: 20px;
