@@ -7,6 +7,15 @@ body {
     font-size:14px;     /* 글자 크기 */
 }
 
+#edu td{
+    text-align: center;
+    padding: 2px;
+}
+.row{
+    margin-top: 20px;
+}
+
+
 h1 {
     font-size: 3rem;    /* 글자 크기 */
     letter-spacing: 0.6rem;  /* 자간 */
