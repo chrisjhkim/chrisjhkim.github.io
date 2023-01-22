@@ -4,6 +4,12 @@
 .expArticle{
     page-break-before:always;
 }
+.row{
+    page-break-before:avoid;
+}
+#skillsSection {
+    page-break-before:avoid;
+}
 
 
 body {
