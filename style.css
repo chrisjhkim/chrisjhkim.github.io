@@ -5,10 +5,10 @@
     page-break-before:always;
 }
 .row{
-    page-break-before:avoid;
+    page-break-inside: avoid;
 }
 #skillsSection {
-    page-break-before:avoid;
+    page-break-inside: avoid;
 }
 
 
