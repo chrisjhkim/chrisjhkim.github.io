@@ -10,7 +10,10 @@
 #skillsSection {
     page-break-inside: avoid;
 }
-
+@page{
+    size: auto;
+    margin-top: 30mm;
+}
 
 body {
     max-width: 960px;    /* 최대 너비 */
