@@ -53,14 +53,12 @@ h1 {
     padding-bottom: 1rem;   /*  아래쪽 패딩 */
 }
 
-/* h2 {
-    font-size: 1.5rem;
-    padding-bottom: 1em;
-} */
+
 body article h2{
     font-size: 35px;
     font-weight: bold;
-    padding-bottom: 1em;
+    padding-bottom: 0.5em;
+    /* padding-bottom: 1em; */
 }
 
 header {
