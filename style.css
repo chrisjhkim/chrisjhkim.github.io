@@ -25,6 +25,10 @@
         display: block;
     }
 }
+hr {
+    color: #000
+    background-color: #000;
+}
 
 body {
     max-width: 960px;    /* 최대 너비 */
