@@ -28,6 +28,12 @@
 hr {
     border-top: solid 1px #000 !important;
 }
+@media (prefers-color-scheme: dark) {
+    .themed {
+      background: black;
+      color: yellow;
+    }
+  }
 
 body {
     max-width: 960px;    /* 최대 너비 */
