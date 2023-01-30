@@ -30,8 +30,8 @@ hr {
 }
 @media (prefers-color-scheme: dark) {
     .themed {
-      background: black;
-      color: yellow;
+      background: yellow;
+      color: white;
     }
   }
 
