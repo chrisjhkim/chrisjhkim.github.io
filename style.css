@@ -4,6 +4,9 @@
 .expArticle{
     page-break-before:always;
 }
+.pageStart{
+    page-break-before:always;
+}
 .row{
     page-break-inside: avoid;
 }
